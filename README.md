@@ -20,6 +20,8 @@ Skilled in Python, Data Science, Machine Learning and Web Development.
 
 ![Flask](https://img.shields.io/badge/-Flask-brown?style=for-the-badge&logo=flask)
 
+![MySQL](https://img.shields.io/badge/MySQL%20-%23E34F26.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=blue)
+
 <!--
 **shubham5351/shubham5351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Final year Computer Engineering Student.Data Science Enthusiast with Intrest Machine Learning. Intrested in contributiong open source projects. Currently Exploring Machine Learning.
+I'm Final year Computer Engineering Student.Data Science Enthusiast with Intrest Machine Learning. Intrested in contributing to open source projects. Currently Exploring Machine Learning.
 Skilled in Python, Data Science, Machine Learning and Web Development.
 
 ## Language and Tools

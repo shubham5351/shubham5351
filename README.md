@@ -1,5 +1,4 @@
-# Hi there 👋, I'm Shubham Pawar
-<hr>
+# Hi there 👋, I'm Shubham Pawar 
 
 ## About Me
 

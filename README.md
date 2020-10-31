@@ -22,6 +22,18 @@ Skilled in Python, Data Science, Machine Learning and Web Development.
 
 ![MySQL](https://img.shields.io/badge/MySQL%20-%23E34F26.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=blue)
 
+## You can connect with me
+
+- 📫 How to reach me **shubhampawar5351@gmail.com**
+
+<!-- display the social media buttons in your README -->
+&nbsp;&nbsp;&nbsp;&nbsp;[![alt text][1.1]][1]
+
+<!-- icons with padding -->
+
+[1.1]: https://img.icons8.com/android/2x/linkedin.png (linkedin icon with padding)
+
+[1]: https://www.linkedin.com/in/shubham-pawar-37b894194
 <!--
 **shubham5351/shubham5351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

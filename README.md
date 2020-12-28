@@ -24,7 +24,7 @@ Skilled in Python, Data Science, Machine Learning and Web Development.
 
 ## You can connect with me
 
-- 📫 How to reach me **shubhampawar5351@gmail.com**
+- 📫 How to reach me **shubhampawar2808@rediffmail.com**
 
 <!-- display the social media buttons in your README -->
 &nbsp;&nbsp;&nbsp;&nbsp;[![alt text][1.1]][1]
